@@ -47,7 +47,6 @@ namespace ProvaQuiz
             this.lblStatement.Size = new System.Drawing.Size(146, 17);
             this.lblStatement.TabIndex = 0;
             this.lblStatement.Text = "1- Quanto é 2 + 2?";
-            this.lblStatement.Click += new System.EventHandler(this.lblStatement_Click);
             // 
             // optAnswearA
             // 
@@ -58,7 +57,6 @@ namespace ProvaQuiz
             this.optAnswearA.TabIndex = 1;
             this.optAnswearA.Text = "A) 2.";
             this.optAnswearA.UseVisualStyleBackColor = true;
-            this.optAnswearA.CheckedChanged += new System.EventHandler(this.optAnswearA_CheckedChanged);
             // 
             // optAnswearB
             // 
@@ -69,7 +67,6 @@ namespace ProvaQuiz
             this.optAnswearB.TabIndex = 2;
             this.optAnswearB.Text = "B) -4.";
             this.optAnswearB.UseVisualStyleBackColor = true;
-            this.optAnswearB.CheckedChanged += new System.EventHandler(this.optAnswearB_CheckedChanged);
             // 
             // optAnswearC
             // 
@@ -80,7 +77,6 @@ namespace ProvaQuiz
             this.optAnswearC.TabIndex = 3;
             this.optAnswearC.Text = "C) <\"(((><.";
             this.optAnswearC.UseVisualStyleBackColor = true;
-            this.optAnswearC.CheckedChanged += new System.EventHandler(this.optAnswearC_CheckedChanged);
             // 
             // optAnswearD
             // 
@@ -91,7 +87,6 @@ namespace ProvaQuiz
             this.optAnswearD.TabIndex = 4;
             this.optAnswearD.Text = "D) 4.";
             this.optAnswearD.UseVisualStyleBackColor = true;
-            this.optAnswearD.CheckedChanged += new System.EventHandler(this.optAnswearD_CheckedChanged);
             // 
             // optAnswearE
             // 
@@ -102,7 +97,6 @@ namespace ProvaQuiz
             this.optAnswearE.TabIndex = 5;
             this.optAnswearE.Text = "E) 0.";
             this.optAnswearE.UseVisualStyleBackColor = true;
-            this.optAnswearE.CheckedChanged += new System.EventHandler(this.optAnswearE_CheckedChanged);
             // 
             // btnNext
             // 
