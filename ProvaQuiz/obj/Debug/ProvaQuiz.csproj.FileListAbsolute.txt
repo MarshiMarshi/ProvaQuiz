@@ -11,3 +11,4 @@ C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQui
 C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.csproj.CoreCompileInputs.cache
 C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.exe
 C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.pdb
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.frmQuestionFive.resources

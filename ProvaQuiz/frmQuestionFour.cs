@@ -17,28 +17,15 @@ namespace ProvaQuiz
             InitializeComponent();
         }
 
-        //private int score = 0;
-        public List<RadioButton> lstOpt = new List<RadioButton>();
+        public frmQuestionFive frm5 = new frmQuestionFive();
 
-        private int optCheck(int score)
+        private void btnNext_Click(object sender, EventArgs e)
         {
-            foreach (RadioButton opt in lstOpt)
-            {
-                if (opt.Checked)
-                {
-                    score++;
-                }
-            }
+            this.Hide();
+            frm5.lstOpt.Remove(optAnswearD4);
+            frm5.lstOpt.Add(optAnswearD4);
 
-            return score;
-        }
-
-        private void btnFinalize_Click(object sender, EventArgs e)
-        {
-            lstOpt.Remove(optAnswearD4);
-            lstOpt.Add(optAnswearD4);
-
-            MessageBox.Show($"Sua pontuação foi: {optCheck(0)}.", "Pontuação da Porva", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            frm5.Show();
         }
 
         private void btnReturn_Click(object sender, EventArgs e)

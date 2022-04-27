@@ -22,8 +22,8 @@ namespace ProvaQuiz
         private void btnNext_Click(object sender, EventArgs e)
         {
             this.Hide();
-            frm4.lstOpt.Remove(optAnswearD3);
-            frm4.lstOpt.Add(optAnswearD3);
+            frm4.frm5.lstOpt.Remove(optAnswearD3);
+            frm4.frm5.lstOpt.Add(optAnswearD3);
 
             frm4.Show();
         }

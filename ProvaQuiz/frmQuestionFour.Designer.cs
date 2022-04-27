@@ -30,7 +30,7 @@ namespace ProvaQuiz
         private void InitializeComponent()
         {
             this.btnReturn = new System.Windows.Forms.Button();
-            this.btnFinalize = new System.Windows.Forms.Button();
+            this.btnNext = new System.Windows.Forms.Button();
             this.optAnswearE4 = new System.Windows.Forms.RadioButton();
             this.optAnswearD4 = new System.Windows.Forms.RadioButton();
             this.optAnswearC4 = new System.Windows.Forms.RadioButton();
@@ -49,15 +49,15 @@ namespace ProvaQuiz
             this.btnReturn.UseVisualStyleBackColor = true;
             this.btnReturn.Click += new System.EventHandler(this.btnReturn_Click);
             // 
-            // btnFinalize
+            // btnNext
             // 
-            this.btnFinalize.Location = new System.Drawing.Point(178, 269);
-            this.btnFinalize.Name = "btnFinalize";
-            this.btnFinalize.Size = new System.Drawing.Size(97, 33);
-            this.btnFinalize.TabIndex = 6;
-            this.btnFinalize.Text = "Finalizar";
-            this.btnFinalize.UseVisualStyleBackColor = true;
-            this.btnFinalize.Click += new System.EventHandler(this.btnFinalize_Click);
+            this.btnNext.Location = new System.Drawing.Point(178, 269);
+            this.btnNext.Name = "btnNext";
+            this.btnNext.Size = new System.Drawing.Size(97, 33);
+            this.btnNext.TabIndex = 6;
+            this.btnNext.Text = "Continuar";
+            this.btnNext.UseVisualStyleBackColor = true;
+            this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
             // optAnswearE4
             // 
@@ -125,7 +125,7 @@ namespace ProvaQuiz
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(298, 324);
             this.Controls.Add(this.btnReturn);
-            this.Controls.Add(this.btnFinalize);
+            this.Controls.Add(this.btnNext);
             this.Controls.Add(this.optAnswearE4);
             this.Controls.Add(this.optAnswearD4);
             this.Controls.Add(this.optAnswearC4);
@@ -143,7 +143,7 @@ namespace ProvaQuiz
         #endregion
 
         private System.Windows.Forms.Button btnReturn;
-        private System.Windows.Forms.Button btnFinalize;
+        private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.RadioButton optAnswearE4;
         private System.Windows.Forms.RadioButton optAnswearD4;
         private System.Windows.Forms.RadioButton optAnswearC4;
