@@ -1,0 +1,13 @@
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\bin\Debug\ProvaQuiz.exe.config
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\bin\Debug\ProvaQuiz.exe
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\bin\Debug\ProvaQuiz.pdb
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.csproj.AssemblyReference.cache
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.frmQuestionOne.resources
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.frmQuestionFour.resources
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.frmQuestionThree.resources
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.frmQuestionTwo.resources
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.Properties.Resources.resources
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.csproj.GenerateResource.cache
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.exe
+C:\Users\Marsh\Documents\Programação\VS\ProvaQuiz\ProvaQuiz\obj\Debug\ProvaQuiz.pdb
